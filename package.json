@@ -20,7 +20,7 @@
     "@nestjs/platform-express": "^10.0.0",
     "@nestjs/schedule": "^5.0.0",
     "cache-manager": "^6.3.2",
-    "melona": "^1.0.4",
+    "melona": "^1.0.5",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },

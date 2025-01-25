@@ -1,5 +1,5 @@
+import type { IChartData, INewMusicData } from 'melona/dist/melon';
 import { MelonService } from 'src/service/melon.service';
-import { IChartData, INewMusicData } from 'melona/dist/melon';
 import { Controller, Get } from '@nestjs/common';
 
 @Controller()

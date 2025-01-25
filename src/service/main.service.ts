@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { IMessage } from 'src/types';
+import type { IMessage } from 'src/types';
 
 @Injectable()
 export class MainService {
